@@ -1,9 +1,7 @@
 # birds_classification
 
-# MLOps Project Car Prices Prediction
-
 <p>
-    <img src="https://storage.googleapis.com/kaggle-datasets-images/534640/4269088/16270cf6b102349411f292e47f478e2f/dataset-cover.jpg?t=2023-01-12-04-45-59"/>
+    <img src="https://singaporebirds.com/wp-content/uploads/2021/07/abbotts-babbler-180714-117eos1d-f1x22497-n.jpg"/>
     </p>
 
 This project has been developed as part of the [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) course provided by [DataTalks.Club](https://datatalks.club/).
