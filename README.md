@@ -43,3 +43,11 @@ Then the EffNetB2 with 10 epochs was trained again but this time using the pretr
 <p align="center">
     <img src="images/effnetB2.png"/>
 </p>
+
+## 👏 App Deployment
+
+The last step was to deploy and app hosted in Hugging Face using Gradio. This app can be tested with available sample images or with own ones.
+
+<p align="center">
+    <img src="images/app_deployment.png"/>
+</p>
