@@ -41,5 +41,5 @@ The first approach was to train 2 Pytorch EfficientNet models (EffNetB0, EffNetB
 Then the EffNetB2 with 10 epochs was trained again but this time using the pretrained model weights of EffNetB2 for the DataLoaders. This time an accuracy on the test set above **95%** was achieved.
 
 <p align="center">
-    <img src="images/effnetb2.png" width="700" height="500"/>
+    <img src="images/effnetb2.png"/>
 </p>
