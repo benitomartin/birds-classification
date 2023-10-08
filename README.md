@@ -1,11 +1,12 @@
-# birds_classification
+# BIRDS CLASIFFICATION 🦅
 
 <p align="center">
     <img src="sample_image.jpg" width="500" height="400"/>
 </p>
 
-This project has been developed as part of the [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) course provided by [DataTalks.Club](https://datatalks.club/).
+This repository hosts a notebook featuring an in-depth analysis of 2 Pytorch EfficientNet models, along with an app deployment using Gradio. The following models were meticulously evaluated:
 
-The dataset used has been downloaded from [Kaggle](https://www.kaggle.com/datasets/hellbuoy/car-price-prediction) and a preliminary data analysis was performed (see [notebooks](/notebooks) folder), to get some insights for the further project development.
+- EffNetB0
+- EffNetB2
 
-Below you can find some instructions to understand the project content. Feel free to clone this repo :wink:
+The dataset used has been downloaded from [Kaggle](https://www.kaggle.com/datasets/gpiosenka/100-bird-species) and contains a set of 525 bird species. 84635 training images, 2625 test images(5 images per species) and 2625 validation images(5 images per species). 
