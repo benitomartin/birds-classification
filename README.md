@@ -1,7 +1,7 @@
 # birds_classification
 
 <p align="center">
-    <img src="sample_image.jpg" />
+    <img src="sample_image.jpg" width="1150" height="800"/>
 </p>
 
 This project has been developed as part of the [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) course provided by [DataTalks.Club](https://datatalks.club/).
