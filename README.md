@@ -28,5 +28,5 @@ In the first stage, a set of helper functions was created in order to easily per
 The first approach was to train 2 Pytorch EfficientNet models (EffNetB0, EffNetB2) with 5 and 10 epochs using the pretrained model weights of EffNetB0 for the DataLoaders in order to stablish a baseline. The EffNetB2 with 10 epochs showed the best performance above **93%** on the test set.
 
 <p align="center">
-    <img src="images/accuracy.png" width="500" height="400"/>
+    <img src="images/accuracy.png" width="700" height="500"/>
 </p>
