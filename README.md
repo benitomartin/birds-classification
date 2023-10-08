@@ -33,7 +33,7 @@ The first approach was to train 2 Pytorch EfficientNet models (EffNetB0, EffNetB
 
 
 <p align="center">
-    <img src="images/birds_predictions.png" width="700" height="500"/>
+    <img src="images/birds_predictions.png"/>
 </p>
 
 ## ↗️ Model Improvement
