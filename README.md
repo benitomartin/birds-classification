@@ -1,10 +1,8 @@
 # birds_classification
 
-<p>
-    <img src="https://singaporebirds.com/wp-content/uploads/2021/07/abbotts-babbler-180714-117eos1d-f1x22497-n.jpg"
-     width="400" 
-     height="500"/>
-    </p>
+<p style="text-align: center;">
+    <img src="https://example.com/image.jpg" width="400" height="500" />
+</p>
 
 This project has been developed as part of the [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) course provided by [DataTalks.Club](https://datatalks.club/).
 
